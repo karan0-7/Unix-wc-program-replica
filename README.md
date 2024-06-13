@@ -6,9 +6,13 @@ The program should be executed in the following format:
 **Execution syntax:** node main.js <file_name> <option_1> <options_2> ...
 
 The acceptable values for options are:
-**-m:** total characters
+
+**-m:** total characters 
+
 **-c:** total bytes
+
 **-l:** total new lines
+
 **-w:** total words
 
 If an invalid option is provided then a log will be shown displaying the first invalid option with a list of the correct options.
