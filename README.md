@@ -16,6 +16,7 @@ The acceptable values for options are:
 **-w:** total words
 
 If an invalid option is provided then a log will be shown displaying the first invalid option with a list of the correct options.
+
 If no options are provided, then all 4 values will be displayed.
 If invalid file path is provided then an error will be thrown regarding the same.
 
